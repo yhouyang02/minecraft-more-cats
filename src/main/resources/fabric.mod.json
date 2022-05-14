@@ -1,0 +1,34 @@
+{
+    "schemaVersion": 1,
+    "id": "mcmorecats",
+    "version": "${version}",
+    "name": "More Cats",
+    "description": "Brings more cat elements to Minecraft!",
+    "authors": [
+        "Yuheng Ouyang"
+    ],
+    "contact": {
+        "homepage": "https://mcmorecats.yhouyang.site",
+        "sources": "https://github.com/yhouyang02/minecraft-more-cats"
+    },
+    "license": "Apache-2.0",
+    "icon": "assets/mcmorecats/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "site.yhouyang.mcmorecats.MoreCats"
+        ]
+    },
+    "mixins": [
+        "mcmorecats.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.13.3",
+        "fabric": "*",
+        "minecraft": "~1.18.2",
+        "java": ">=17"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}
