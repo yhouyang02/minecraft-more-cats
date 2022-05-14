@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "mcmorecats:item/test_cat_ball"
+    }
+}
