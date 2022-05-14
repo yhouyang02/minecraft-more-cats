@@ -1,2 +1,2 @@
-# minecraft-more-cats
-A game mod that brings you more cats in Minecraft 1.18.2
+# More Cats Mod for Minecraft
+A game mod that brings you more cats to Minecraft 1.18.2. 
