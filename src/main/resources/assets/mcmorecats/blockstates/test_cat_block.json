@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "mcmorecats:block/test_cat_block"
+        }
+    }
+}
